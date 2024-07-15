@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(images/img1.jpg);
+}
+
+h2{
+    font-family: cursive;
+    margin: 20px 0px 0px 20px;
+}
+h2 a{
+    color: black;
+    text-decoration: none;
+}
+h1{
+    font-size: 200px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 100px;
+    color:black ;
+    position: relative;
+    animation: mymove 1s infinite;
+}
+@keyframes mymove
+{
+    0%{top: 0px;}
+    50%{top: 100px;}
+    100%{top: 0px;}
+}
+
+@media only screen and (max-width:400px) {
+    h1{
+        font-size: 150px;
+        margin-top: 70px;
+    }
+}
