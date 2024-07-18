@@ -2,16 +2,26 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: cursive;
 }
 
 body{
     background-image: url(images/backimg.jpg);
 }
 
+h2{
+    color: white;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+h2 a{
+    text-decoration: none;
+}
+
 .logo-div{
     display: flex;
     justify-content: center;
-    margin-top: 70px;
+    margin-top: 30px;
 }
 
 #logo-png{
