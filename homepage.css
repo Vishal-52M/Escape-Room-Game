@@ -65,7 +65,9 @@ button{
     body{
         flex-wrap: wrap;
     }
-
+    .logo-div{
+        margin-top: 20%;
+    }
     #logo-png{
         height: 180px;
     }
@@ -74,7 +76,7 @@ button{
         width: 340px;
        }
     .btn-div{
-        margin-top: 150px;
+        margin-top: 25%;
     }
 
     #about-id, #htop-id{
@@ -83,7 +85,7 @@ button{
 
     .header-div{
         padding: 0% 2%;
-        margin-top: 2%;
+        margin-top: 3%;
     }
 }
 
