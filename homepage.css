@@ -12,8 +12,8 @@ body{
 .header-div{
     display: flex;
     justify-content:space-between;
-    margin-top: 1%;
-    padding: 0% 1.5%;
+    margin-top: 1.5%;
+    padding: 0% 1.7%;
 }
 
 #about-id{
@@ -79,6 +79,11 @@ button{
 
     #about-id, #htop-id{
         font-size: 15px;
+    }
+
+    .header-div{
+        padding: 0% 2%;
+        margin-top: 2%;
     }
 }
 
