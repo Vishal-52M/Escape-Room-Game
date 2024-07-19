@@ -9,28 +9,16 @@ body{
     background-image: url(images/backimg.jpg);
 }
 
-.header-div{
-    display: flex;
-    justify-content:space-between;
-    margin-top: 1.5%;
-    padding: 0% 1.7%;
-}
-
 #about-id{
     font-size: 22px;
+    margin-top: 1%;
+    margin-left: 1.5%;
 }
 #about-id a{
     text-decoration: none;
     color: white;
 }
 
-#htop-id{
-    font-size: 22px;
-}
-#htop-id a{
-    color: white;
-    text-decoration: none;
-}
 
 .logo-div{
     display: flex;
