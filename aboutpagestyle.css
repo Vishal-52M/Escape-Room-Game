@@ -38,7 +38,7 @@ a{
 @media only screen and (max-width:600px) and (max-height:700px) {
     .about-div{
         width: 70%;
-        margin-left: 9%;
+        margin-left: 5%;
     }
     p{
         font-size: 110%;
@@ -51,8 +51,5 @@ a{
     }
     #bth{
         font-size: 100%;
-    }
-    .about-div{
-        margin-left: 5%;
     }
 }
