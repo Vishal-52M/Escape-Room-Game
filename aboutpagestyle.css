@@ -38,18 +38,22 @@ a{
 @media only screen and (max-width:600px){
     .about-div{
         width: 70%;
-        margin-left: 2%;
+        margin-left: 5%;
+        margin-top: 10%;
     }
     p{
-        font-size: 110%;
+        font-size: 120%;
     }
     h1{
-        font-size: 170%;
+        font-size: 180%;
     }
     h2{
-        font-size: 145%;
+        font-size: 150%;
     }
     #bth{
         font-size: 100%;
+    }
+    .divs-in-div{
+        margin-top: 20%;
     }
 }
