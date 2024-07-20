@@ -52,6 +52,8 @@ a{
     }
     #bth{
         font-size: 100%;
+        margin-left: 5%;
+        margin-top: 5%;
     }
     .divs-in-div{
         margin-top: 20%;
